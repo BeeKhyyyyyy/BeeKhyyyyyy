@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 I'm Khyron Rafael, a new GitHub user and a beginner in Programming.
-\nI'm just a simple Junior Programmer/Developer still learning to code ^^
+I'm just a simple Junior Programmer/Developer still learning to code ^^
 
 I look forward to working with you all!! :]
