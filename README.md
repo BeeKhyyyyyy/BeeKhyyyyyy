@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Khyron Rafael, a new GitHub user and a beginner in Programming.
+\nI'm just a simple Junior Programmer/Developer still learning to code ^^
+
+I look forward to working with you all!! :]
