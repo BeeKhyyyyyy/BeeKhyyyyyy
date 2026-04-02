@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 I'm **Khyron Rafael**, a new GitHub user and a beginner in Programming. <br>
-I'm just a simple Junior Programmer/Developer still learning to code ^_^
+I'm just a simple Junior Developer still learning to improve my skills. ^_^
 
 I look forward to working with you all!! :]
 
 ## About Me
 - 🏫 I’m currently studying at NU Laguna
-- 📖 I’m currently learning coding, programming, GitHub, AI/ML, and OS
+- 📖 I’m currently learning GitHub, AI/ML, and OS
 - 🎓 I’m currently pursuing BS Computer Science
 - 🏆 I’m proficient with Java, SQL, HTML, and CSS
 - 🧰 I have experience with JavaScript and Verilog
