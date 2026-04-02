@@ -1,8 +1,3 @@
-# Khyron Rafael
-Student | Junior Developer
-
-## Hello, everyone! What's up!! 👋
-
 <!--
 **BeeKhyyyyyy/BeeKhyyyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Khyron Rafael
+Student | Junior Developer
+
+## Hello, everyone! What's up!! 👋
 I'm **Khyron Rafael**, a new GitHub user and a beginner in Programming. <br>
 I'm just a simple Junior Developer still learning to improve my skills. ^_^
 
