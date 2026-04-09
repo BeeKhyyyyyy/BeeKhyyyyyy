@@ -23,11 +23,13 @@ I'm just a simple Junior Developer still learning to improve my skills. ^_^
 I look forward to working with you all!! :]
 
 ## About Me
-- 🏫 I’m currently studying at NU Laguna
-- 📖 I’m currently learning GitHub, AI/ML, and OS
-- 🎓 I’m currently pursuing BS Computer Science
-- 🏆 I’m proficient with Java, SQL, HTML, and CSS
-- 🧰 I have experience with JavaScript and Verilog
-- 🏸 Hobbies: Badminton, Online Games
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love playing sports/online games and sleeping
+- 🏫 I’m currently studying at **NU Laguna**
+- 💙 a **BLUE** scholar *(formerly WHITE scholar)*
+- 👥 Member of the **Council of Leaders (COL)**
+- 📖 I’m currently learning `GitHub`, `AI/ML`, and `OS`
+- 🎓 I’m currently pursuing **BS Computer Science**
+- 🛠️ I’m proficient with `Java`, `SQL`, `HTML`, and `CSS`
+- 🧰 I have experience with `JavaScript` and `Verilog`
+- 🏸 **Hobbies:** Badminton, Online Games
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I love playing sports/online games and sleeping
